@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Reply.
 - 🌱 I’m currently learning Spring Boot and Angular.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with creating beautiful README on GitHub.
 - ⚡ Fun fact: I like Star Wars and Power Rangers.
 
