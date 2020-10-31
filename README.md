@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Reply.
+- 🔭 I’m currently working at Reply.
 - 📚 I’m studying Systems Analysis at IFSP.
 - 🌱 I’m currently learning Spring Boot and Angular.
 - 💻 Techs: C, C#, Java, Javascript
