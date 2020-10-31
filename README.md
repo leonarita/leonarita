@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Reply.
 - 📚 I’m studying Systems Analysis at IFSP.
 - 🌱 I’m currently learning Spring Boot and Angular.
-- 💻 Techs: C, C#, Java, Javascript
-- 🤔 I’m looking for help with creating beautiful README on GitHub.
+- 💻 Techs: C, C#, Java, Node, React.
+- 🤔 I’m looking for help with coding in Angular.
 - ⚡ Fun fact: I like Star Wars and Power Rangers.
 
