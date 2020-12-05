@@ -6,8 +6,6 @@
 
 <br/>
 
-## Hi there! 👋 
-
 <!--
 **leonarita/leonarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,13 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Reply.
 - 📚 I’m studying Systems Analysis at IFSP.
 - 🌱 I’m currently learning Spring Boot and Angular.
-- 💻 Techs: C, C#, Java, Node, React.
+- 💻 Techs: C, C#, Java, Spring, Node, React, Angular.
 - 🤔 I’m looking for help with coding in Angular.
-- ⚡ Fun fact: I like Star Wars and Power Rangers.
 
