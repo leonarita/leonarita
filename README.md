@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 📚 I’m studying Systems Analysis at IFSP.
 - 🌱 I’m currently learning Spring Boot and Angular.
 - 💻 Techs: C, C#, Java, Spring, Node, React, Angular.
-- 🤔 I’m looking for help with coding in Angular.
+
 
