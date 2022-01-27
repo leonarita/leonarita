@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at Reply.
-- 📚 I’m studying Systems Analysis at IFSP.
-- 🌱 I’m currently learning Spring Boot and Angular.
+- 🔭 I’m currently working at Reply using Spring Boot and Angular.
+- 📚 I studied Systems Analysis at IFSP.
 - 💻 Techs: C, C#, Java, Spring, Node, React, Angular.
 
 
